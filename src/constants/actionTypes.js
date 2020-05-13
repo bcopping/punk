@@ -1,0 +1,9 @@
+export const GET_BEERS = "GET_BEERS";
+export const SET_BEERS = "SET_BEERS";
+export const SET_BEERS_PIZZA = "SET_BEERS_PIZZA";
+export const SET_BEERS_STEAK = "SET_BEERS_STEAK";
+
+export const REMOVE_CART_ITEM = "REMOVE_CART_ITEM";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const DECREMENT_CART_ITEM = "DECREMENT_CART_ITEM";
+export const TOGGLE_CART_VISIBILITY = "TOGGLE_CART_VISIBILITY";
